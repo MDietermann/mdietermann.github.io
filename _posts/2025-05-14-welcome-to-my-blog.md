@@ -1,6 +1,6 @@
 ---
+layout: post
 title: Willkommen beim EzBlog!
-date: 14.05.2025 21:16:00 
 categories: [generelles, blog]
 tags: [welcome,new,blog,general]
 ---
